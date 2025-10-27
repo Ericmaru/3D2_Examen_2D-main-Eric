@@ -1621,6 +1621,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerSpeed: 5
+  _jumpHeight: 5
 --- !u!95 &1202521227
 Animator:
   serializedVersion: 7
